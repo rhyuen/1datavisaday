@@ -1,0 +1,8 @@
+node_modules
+README.md
+.dockerignore
+Dockerfile
+nginx.conf
+.git
+.now
+coverage

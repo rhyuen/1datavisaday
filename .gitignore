@@ -1,0 +1,7 @@
+node_modules
+public/*
+dist/*
+.vscode
+.env
+.now
+coverage
