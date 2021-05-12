@@ -57,7 +57,7 @@
     "babel-core": "7.0.0-bridge.0",
     "babel-jest": "24.1.0",
     "babel-plugin-dynamic-import-node": "2.2.0",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "core-js": "^3.2.1",
     "cross-env": "6.0.3",
     "enzyme-to-json": "3.3.5",
